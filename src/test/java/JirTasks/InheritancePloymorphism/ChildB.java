@@ -1,6 +1,6 @@
-package com.sipa.assignment1.polymorphism;
+package JirTasks.InheritancePloymorphism;
 
-public class ChildB extends ParentA{
+public class ChildB extends ParentA {
 
     public static void main(String[] args) {
         ChildB childB = new ChildB();

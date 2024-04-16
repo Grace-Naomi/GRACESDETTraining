@@ -1,4 +1,4 @@
-package com.sipa.assignment1.polymorphism;
+package com.sipa.assignment1.polymorphismP;
 
 public class ParentA {
 
