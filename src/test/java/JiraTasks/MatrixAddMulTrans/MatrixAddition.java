@@ -1,10 +1,9 @@
 
-package JiraTasks;
+package JiraTasks.MatrixAddMulTrans;
 
-import org.openqa.selenium.*;
 import java.util.Scanner;
 
-public class MatrixAMT {
+public class MatrixAddition {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
