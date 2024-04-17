@@ -1,4 +1,4 @@
-package JirTasks.InheritancePloymorphism;
+package JiraTasks.InheritancePloymorphism;
 
 public class ParentA {
 

@@ -1,4 +1,4 @@
-package JirTasks;
+package JiraTasks;
 
 
     public class DuplicateElementsInArray {

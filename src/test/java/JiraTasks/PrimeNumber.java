@@ -1,6 +1,4 @@
-package JirTasks;
-
-import org.testng.annotations.Test;
+package JiraTasks;
 
 import java.util.Scanner;
 
